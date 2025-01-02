@@ -10,8 +10,8 @@ from datetime import datetime
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Токен моего бота
-TOKEN = '7187385834:AAF5ZZLTG2xUBNdkm4HRMCvvPl6VWwBwUrY'
+# Токен бота
+TOKEN = ''
 
 # Состояния
 WAITING_FOR_REMINDER = 1
